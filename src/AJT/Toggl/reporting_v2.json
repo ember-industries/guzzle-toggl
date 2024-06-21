@@ -73,12 +73,6 @@
           "type": "string",
           "description": "string, ISO 8601 date (YYYY-MM-DD), by default today"
         },
-        "billable": {
-          "location": "query",
-          "type": "string",
-          "default": "both",
-          "description": "possible values: yes/no/both, default both"
-        },
         "client_ids": {
           "location": "query",
           "type": "string",
@@ -182,12 +176,6 @@
           "type": "string",
           "description": "string, ISO 8601 date (YYYY-MM-DD), by default today"
         },
-        "billable": {
-          "location": "query",
-          "type": "string",
-          "default": "both",
-          "description": "possible values: yes/no/both, default both"
-        },
         "client_ids": {
           "location": "query",
           "type": "string",
@@ -284,12 +272,6 @@
           "location": "query",
           "type": "string",
           "description": "string, ISO 8601 date (YYYY-MM-DD), by default today"
-        },
-        "billable": {
-          "location": "query",
-          "type": "string",
-          "default": "both",
-          "description": "possible values: yes/no/both, default both"
         },
         "client_ids": {
           "location": "query",

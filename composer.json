@@ -1,14 +1,19 @@
 {
-    "name": "ajt/guzzle-toggl",
+    "name": "ember-devops/guzzle-toggl",
     "type": "library",
     "description": "Toggl API client written on top of Guzzle PHP.",
     "keywords": ["toggl", "ajt", "api", "guzzle"],
-    "homepage": "http://github.com/arendjantetteroo/guzzle-toggl",
+    "homepage": "https://github.com/ember-devops/guzzle-toggl",
     "license": "MIT",
+    "version": "9.0.0",
     "authors": [
         {
             "name": "Arend-Jan Tetteroo",
             "homepage": "http://www.arendjantetteroo.nl"
+        },
+        {
+            "name": "ember devops",
+            "homepage": "https://ember.co.nz"
         }
     ],
     "require": {
