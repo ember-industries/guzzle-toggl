@@ -1,5 +1,5 @@
 {
-    "name": "ajt/guzzle-toggl",
+    "name": "ember-industries/guzzle-toggl",
     "type": "library",
     "description": "Toggl API client written on top of Guzzle PHP.",
     "keywords": ["toggl", "ajt", "api", "guzzle"],
@@ -13,7 +13,7 @@
     ],
     "require": {
         "guzzlehttp/guzzle": "^7.3",
-        "guzzlehttp/guzzle-services": "^1.2",
+        "guzzlehttp/guzzle-services": "^1.7",
         "inveniem/guzzle-description-loader": "v1.0.0"
     },
     "autoload": {
